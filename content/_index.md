@@ -2,6 +2,7 @@
 title: 'Home'
 date: 2023-07-30T12:36:56+06:00
 draft: false
+# subtitle: Learning basic Hugo concepts
 ---
 
 # Welcome to My Homepage!
@@ -40,5 +41,3 @@ Feel free to reach out to me via email at [your.email@example.com](mailto:your.e
 ---
 
 Thank you for visiting my homepage! Don't forget to check out my [GitHub profile](https://github.com/yourusername) for more projects and contributions.
-
-[![My Profile Picture](https://your-image-url.com)](https://github.com/yourusername)
